@@ -1,5 +1,5 @@
 <template>
-  <div id="app"></div>
+  <div id="app">更新</div>
 </template>
 
 <script>
